@@ -4,7 +4,11 @@ Kwels!
 
 Crocodila Tortalino 
 
+---
+
 ![Alt Text](https://media1.tenor.com/m/1tuKwrjR9VsAAAAC/anime-boy.gif)
+
+---
 
 🧠 I'm currently learning:
 
