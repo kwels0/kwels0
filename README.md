@@ -1,6 +1,6 @@
-## Hi there 👋
+## Musta 👋
 
-I'm Kwels! 😎
+Kwels!
 
 Crocodila Tortalino 
 
