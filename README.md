@@ -29,3 +29,6 @@ Crocodila Tortalino
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kwels-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwels-cawi-b81b0535b/)
 [![Email](https://img.shields.io/badge/Email-wescawi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](wescawi@gmail.com)
 
+---
+
+[![kwels0's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwels0)](https://github.com/kwels0/github-readme-stats)
