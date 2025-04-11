@@ -23,7 +23,7 @@ Crocodila Tortalino
 
 ### Feel free to contact me 😋
 
-[![Telegram](https://img.shields.io/badge/Telegram-@moepoi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kwels0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-moepoi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwels-cawi-b81b0535b/)
-[![Email](https://img.shields.io/badge/Email-moe@poi.lol-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](wescawi@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@kwels0-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kwels0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kwels-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwels-cawi-b81b0535b/)
+[![Email](https://img.shields.io/badge/Email-wescawi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](wescawi@gmail.com)
 
