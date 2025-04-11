@@ -4,6 +4,8 @@ I'm Kwels! 😎
 
 Crocodila Tortalino 
 
+![Alt Text](https://media1.tenor.com/m/1tuKwrjR9VsAAAAC/anime-boy.gif)
+
 🧠 I'm currently learning:
 
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
