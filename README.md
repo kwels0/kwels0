@@ -3,7 +3,7 @@
 Kwels!
 
 Crocodila Tortalino 
-
+I'm a Baguio-based developer who enjoys building efficient, scalable web solutions and automating the boring stuff. 
 ---
 
 ![Alt Text](https://media1.tenor.com/m/1tuKwrjR9VsAAAAC/anime-boy.gif)
