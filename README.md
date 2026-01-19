@@ -37,7 +37,7 @@ Crocodila Tortalino
 
 * **Patient Management System**: A relational database-driven application optimized for medical record integrity.
 * **Email Scraper**: Automation script designed to streamline data extraction from high volumes of structured emails.
-* **ThePubBot**: A custom Discord bot engineered using JavaScript for server automation and real-time moderation.
+* **Discord Bot**: A custom Discord bot engineered using JavaScript for server automation and real-time moderation.
 
 ---
 
